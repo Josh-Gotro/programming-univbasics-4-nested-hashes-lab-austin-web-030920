@@ -90,7 +90,7 @@ programmer_hash[
          }
      }]
 
-puts programmer_hash
+p programmer_hash
 end
 
 def changing_alan
